@@ -1,0 +1,31 @@
+.about{
+    color: #1dcee5;
+    font-size:x-large;
+    p{
+        display: block;
+        width: 90%;
+        font-size: 2em;
+        color:#e0e5e5;
+    }
+}
+h1{
+    display: block;
+    font-size: 3em;
+    font-weight: 900;
+    color: #141212;
+
+}
+h2{
+    display: block;
+    font-size: 2em;
+    font-weight: 900;
+    color: #171616;
+
+}
+.are
+{
+    display: block;
+        width: 90%;
+        font-size: 2em;
+        color:#f0f5f4;
+}
